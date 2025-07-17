@@ -58,10 +58,10 @@ def instalar_pygame():
     print("🔧 Instalando pygame...")
     try:
         subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'pygame'])
-        print("✅ Pygame instalado com sucesso!")
+        print("Pygame instalado com sucesso!")
         return True
     except subprocess.CalledProcessError:
-        print("❌ Erro ao instalar pygame")
+        print("Erro ao instalar pygame")
         return False
 
 
@@ -71,9 +71,9 @@ def iniciar_servidor(ip='0.0.0.0', porta=12345):
         try:
             subprocess.run([sys.executable, 'servidor_avancado.py'], check=True)
         except subprocess.CalledProcessError as e:
-            print(f"❌ Erro ao iniciar servidor: {e}")
+            print(f"Erro ao iniciar servidor: {e}")
         except KeyboardInterrupt:
-            print("🛑 Servidor interrompido pelo usuário")
+            print("Servidor interrompido pelo usuário")
     
     thread_servidor = threading.Thread(target=run_servidor, daemon=True)
     thread_servidor.start()
@@ -85,9 +85,9 @@ def iniciar_cliente():
     try:
         subprocess.run([sys.executable, 'cliente_avancado.py'], check=True)
     except subprocess.CalledProcessError as e:
-        print(f"❌ Erro ao iniciar cliente: {e}")
+        print(f"Erro ao iniciar cliente: {e}")
     except KeyboardInterrupt:
-        print("🛑 Cliente interrompido pelo usuário")
+        print("Cliente interrompido pelo usuário")
 
 
 def mostrar_menu_principal():
