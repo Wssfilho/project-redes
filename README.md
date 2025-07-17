@@ -326,15 +326,9 @@ taskkill /PID <process_id> /F
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-## 🙏 Agradecimentos
-
-- **Pygame Community** - Por uma excelente biblioteca de jogos
-- **Python Software Foundation** - Pela linguagem Python
-- **Contribuidores** - Por melhorias e correções de bugs
-
 ## 📞 Contato
 
-- **Autor:** Wilson Silva Filho
+- **Autor:** Wilson Silva Filho, Anderson Morbeck, Marco Túlio e Hingrid Queiroz
 - **GitHub:** [@Wssfilho](https://github.com/Wssfilho)
 - **Projeto:** [project-redes](https://github.com/Wssfilho/project-redes)
 
