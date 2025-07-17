@@ -745,7 +745,7 @@ class ClienteDamasAvancado:
             if tuple(peca['cor']) == VERDE:  # Converte lista para tupla
                 direcoes = [(-1, -1), (1, -1)]  # Move para cima (diagonal superior esquerda e direita)
             else:
-                direcoes = [(1, -1), (1, 1)]   # Move para baixo (diagonal inferior esquerda e direita)
+                direcoes = [(-1, 1), (1, 1)]   # Move para baixo (diagonal inferior esquerda e direita)
         
         for dx, dy in direcoes:
             # Movimento simples
