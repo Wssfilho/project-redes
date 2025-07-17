@@ -239,3 +239,238 @@
 2025-07-16 15:27:22,157 - INFO -    - Jogadores conectados: 1
 2025-07-16 15:27:22,157 - INFO -    - Enviando para Jogador 1 ((0, 255, 0))
 2025-07-16 15:27:22,881 - INFO - ❌ Jogador 1 desconectado
+2025-07-17 10:48:00,702 - ERROR - Erro fatal do servidor: [Errno 11001] getaddrinfo failed
+2025-07-17 10:48:00,703 - INFO - 🛑 Parando servidor...
+2025-07-17 10:48:00,703 - INFO - ✅ Servidor encerrado
+2025-07-17 10:48:00,704 - INFO - 📊 Estatísticas: 0 jogos, 0 conexões
+2025-07-17 10:48:00,704 - INFO - 🛑 Parando servidor...
+2025-07-17 10:48:00,705 - INFO - ✅ Servidor encerrado
+2025-07-17 10:48:00,705 - INFO - 📊 Estatísticas: 0 jogos, 0 conexões
+2025-07-17 10:48:22,246 - INFO - 🎮 Servidor Damas Online iniciado em 0.0.0.0:12345
+2025-07-17 10:48:22,300 - INFO - 📍 IPs disponíveis para conexão:
+2025-07-17 10:48:22,300 - INFO -    1. 192.168.0.102:12345
+2025-07-17 10:48:22,301 - INFO - ✅ IP recomendado: 192.168.0.102:12345
+2025-07-17 10:48:22,301 - INFO - 💡 Configure firewall para permitir porta 12345
+2025-07-17 10:48:22,302 - INFO - 🔧 Use config_rede.py para diagnósticos de rede
+2025-07-17 10:48:22,302 - INFO - ⏳ Aguardando conexões...
+2025-07-17 10:49:38,760 - INFO - 🎮 Servidor Damas Online iniciado em 0.0.0.0:12345
+2025-07-17 10:49:38,792 - INFO - 📍 IPs disponíveis para conexão:
+2025-07-17 10:49:38,792 - INFO -    1. 192.168.0.102:12345
+2025-07-17 10:49:38,792 - INFO - ✅ IP recomendado: 192.168.0.102:12345
+2025-07-17 10:49:38,793 - INFO - 💡 Configure firewall para permitir porta 12345
+2025-07-17 10:49:38,793 - INFO - 🔧 Use config_rede.py para diagnósticos de rede
+2025-07-17 10:49:38,793 - INFO - ⏳ Aguardando conexões...
+2025-07-17 10:50:32,647 - INFO - 🎮 Servidor Damas Online iniciado em 0.0.0.0:12345
+2025-07-17 10:50:32,682 - INFO - 📍 IPs disponíveis para conexão:
+2025-07-17 10:50:32,683 - INFO -    1. 192.168.0.102:12345
+2025-07-17 10:50:32,683 - INFO - ✅ IP recomendado: 192.168.0.102:12345
+2025-07-17 10:50:32,683 - INFO - 💡 Configure firewall para permitir porta 12345
+2025-07-17 10:50:32,684 - INFO - 🔧 Use config_rede.py para diagnósticos de rede
+2025-07-17 10:50:32,684 - INFO - ⏳ Aguardando conexões...
+2025-07-17 10:52:41,559 - INFO - 🎮 Servidor Damas Online iniciado em 0.0.0.0:12345
+2025-07-17 10:52:41,574 - INFO - 📍 IPs disponíveis para conexão:
+2025-07-17 10:52:41,574 - INFO -    1. 192.168.0.102:12345
+2025-07-17 10:52:41,575 - INFO - ✅ IP recomendado: 192.168.0.102:12345
+2025-07-17 10:52:41,575 - INFO - 💡 Configure firewall para permitir porta 12345
+2025-07-17 10:52:41,575 - INFO - 🔧 Use config_rede.py para diagnósticos de rede
+2025-07-17 10:52:41,575 - INFO - ⏳ Aguardando conexões...
+2025-07-17 10:53:05,670 - INFO - 🔗 Nova conexão de ('127.0.0.1', 64153)
+2025-07-17 10:53:05,672 - INFO - 👤 Jogador 1 ((0, 255, 0)) conectado
+2025-07-17 10:53:06,917 - INFO - 🔗 Nova conexão de ('127.0.0.1', 64154)
+2025-07-17 10:53:06,919 - INFO - 👤 Jogador 2 ((255, 255, 0)) conectado
+2025-07-17 10:53:07,049 - INFO - 📡 Fazendo broadcast da mensagem tipo: jogo_iniciado
+2025-07-17 10:53:07,050 - INFO -    - Jogadores conectados: 2
+2025-07-17 10:53:07,050 - INFO -    - Enviando para Jogador 1 ((0, 255, 0))
+2025-07-17 10:53:07,051 - INFO -    - Enviando para Jogador 2 ((255, 255, 0))
+2025-07-17 10:53:07,052 - INFO - 🎯 Novo jogo iniciado
+2025-07-17 10:54:40,528 - INFO - Movimento executado: Jogador 1 de (5, 5) para (6, 4)
+2025-07-17 10:54:40,528 - INFO - 🔄 Alternando turno: (0, 255, 0) -> (255, 255, 0)
+2025-07-17 10:54:40,529 - INFO -    - Jogador 1 ((0, 255, 0)) está AGUARDANDO_TURNO
+2025-07-17 10:54:40,529 - INFO -    - Jogador 2 ((255, 255, 0)) agora está JOGANDO
+2025-07-17 10:54:40,529 - INFO - 📤 Enviando mensagem de movimento executado
+2025-07-17 10:54:40,529 - INFO -    - Movimento: (5, 5) -> (6, 4)
+2025-07-17 10:54:40,530 - INFO -    - Jogador que jogou: (0, 255, 0)
+2025-07-17 10:54:40,530 - INFO -    - Próximo turno: (255, 255, 0)
+2025-07-17 10:54:40,530 - INFO -    - Número de jogadores conectados: 2
+2025-07-17 10:54:40,530 - INFO - 📡 Fazendo broadcast da mensagem tipo: movimento_executado
+2025-07-17 10:54:40,531 - INFO -    - Jogadores conectados: 2
+2025-07-17 10:54:40,531 - INFO -    - Enviando para Jogador 1 ((0, 255, 0))
+2025-07-17 10:54:40,532 - INFO -    - Enviando para Jogador 2 ((255, 255, 0))
+2025-07-17 10:54:40,533 - INFO - ✅ Turno atualizado enviado: agora é a vez de (255, 255, 0)
+2025-07-17 10:58:28,711 - INFO - ❌ Jogador 1 desconectado
+2025-07-17 10:58:28,712 - INFO - 📡 Fazendo broadcast da mensagem tipo: notificacao
+2025-07-17 10:58:28,712 - INFO -    - Jogadores conectados: 1
+2025-07-17 10:58:28,713 - INFO -    - Enviando para Jogador 2 ((255, 255, 0))
+2025-07-17 10:58:28,713 - INFO - 📡 Fazendo broadcast da mensagem tipo: jogo_interrompido
+2025-07-17 10:58:28,714 - INFO -    - Jogadores conectados: 1
+2025-07-17 10:58:28,714 - INFO -    - Enviando para Jogador 2 ((255, 255, 0))
+2025-07-17 11:00:58,487 - INFO - 🎮 Servidor Damas Online iniciado em 0.0.0.0:12345
+2025-07-17 11:00:58,519 - INFO - 📍 IPs disponíveis para conexão:
+2025-07-17 11:00:58,519 - INFO -    1. 192.168.0.102:12345
+2025-07-17 11:00:58,519 - INFO - ✅ IP recomendado: 192.168.0.102:12345
+2025-07-17 11:00:58,520 - INFO - 💡 Configure firewall para permitir porta 12345
+2025-07-17 11:00:58,520 - INFO - 🔧 Use config_rede.py para diagnósticos de rede
+2025-07-17 11:00:58,520 - INFO - ⏳ Aguardando conexões...
+2025-07-17 11:01:20,339 - INFO - 🎮 Servidor Damas Online iniciado em 0.0.0.0:12345
+2025-07-17 11:01:20,391 - INFO - 📍 IPs disponíveis para conexão:
+2025-07-17 11:01:20,392 - INFO -    1. 192.168.0.102:12345
+2025-07-17 11:01:20,392 - INFO - ✅ IP recomendado: 192.168.0.102:12345
+2025-07-17 11:01:20,392 - INFO - 💡 Configure firewall para permitir porta 12345
+2025-07-17 11:01:20,393 - INFO - 🔧 Use config_rede.py para diagnósticos de rede
+2025-07-17 11:01:20,393 - INFO - ⏳ Aguardando conexões...
+2025-07-17 11:01:28,120 - INFO - 🔗 Nova conexão de ('127.0.0.1', 64193)
+2025-07-17 11:01:28,125 - INFO - 👤 Jogador 1 ((0, 255, 0)) conectado
+2025-07-17 11:01:29,729 - INFO - 🔗 Nova conexão de ('127.0.0.1', 64194)
+2025-07-17 11:01:29,731 - INFO - 👤 Jogador 2 ((255, 255, 0)) conectado
+2025-07-17 11:01:29,850 - INFO - 📡 Fazendo broadcast da mensagem tipo: jogo_iniciado
+2025-07-17 11:01:29,851 - INFO -    - Jogadores conectados: 2
+2025-07-17 11:01:29,851 - INFO -    - Enviando para Jogador 1 ((0, 255, 0))
+2025-07-17 11:01:29,852 - INFO -    - Enviando para Jogador 2 ((255, 255, 0))
+2025-07-17 11:01:29,853 - INFO - 🎯 Novo jogo iniciado
+2025-07-17 11:03:58,446 - INFO - Movimento executado: Jogador 1 de (1, 5) para (2, 4)
+2025-07-17 11:03:58,447 - INFO - 🔄 Alternando turno: (0, 255, 0) -> (255, 255, 0)
+2025-07-17 11:03:58,448 - INFO -    - Jogador 1 ((0, 255, 0)) está AGUARDANDO_TURNO
+2025-07-17 11:03:58,448 - INFO -    - Jogador 2 ((255, 255, 0)) agora está JOGANDO
+2025-07-17 11:03:58,448 - INFO - 📤 Enviando mensagem de movimento executado
+2025-07-17 11:03:58,449 - INFO -    - Movimento: (1, 5) -> (2, 4)
+2025-07-17 11:03:58,449 - INFO -    - Jogador que jogou: (0, 255, 0)
+2025-07-17 11:03:58,450 - INFO -    - Próximo turno: (255, 255, 0)
+2025-07-17 11:03:58,450 - INFO -    - Número de jogadores conectados: 2
+2025-07-17 11:03:58,450 - INFO - 📡 Fazendo broadcast da mensagem tipo: movimento_executado
+2025-07-17 11:03:58,450 - INFO -    - Jogadores conectados: 2
+2025-07-17 11:03:58,450 - INFO -    - Enviando para Jogador 1 ((0, 255, 0))
+2025-07-17 11:03:58,451 - INFO -    - Enviando para Jogador 2 ((255, 255, 0))
+2025-07-17 11:03:58,452 - INFO - ✅ Turno atualizado enviado: agora é a vez de (255, 255, 0)
+2025-07-17 11:07:18,103 - INFO - ❌ Jogador 2 desconectado
+2025-07-17 11:07:18,104 - INFO - 📡 Fazendo broadcast da mensagem tipo: notificacao
+2025-07-17 11:07:18,104 - INFO -    - Jogadores conectados: 1
+2025-07-17 11:07:18,104 - INFO -    - Enviando para Jogador 1 ((0, 255, 0))
+2025-07-17 11:07:18,105 - INFO - 📡 Fazendo broadcast da mensagem tipo: jogo_interrompido
+2025-07-17 11:07:18,105 - INFO -    - Jogadores conectados: 1
+2025-07-17 11:07:18,106 - INFO -    - Enviando para Jogador 1 ((0, 255, 0))
+2025-07-17 11:07:21,709 - INFO - ❌ Jogador 1 desconectado
+2025-07-17 11:07:34,548 - INFO - 🎮 Servidor Damas Online iniciado em 0.0.0.0:12345
+2025-07-17 11:07:34,587 - INFO - 📍 IPs disponíveis para conexão:
+2025-07-17 11:07:34,587 - INFO -    1. 192.168.0.102:12345
+2025-07-17 11:07:34,587 - INFO - ✅ IP recomendado: 192.168.0.102:12345
+2025-07-17 11:07:34,587 - INFO - 💡 Configure firewall para permitir porta 12345
+2025-07-17 11:07:34,588 - INFO - 🔧 Use config_rede.py para diagnósticos de rede
+2025-07-17 11:07:34,588 - INFO - ⏳ Aguardando conexões...
+2025-07-17 11:07:45,735 - INFO - 🎮 Servidor Damas Online iniciado em 0.0.0.0:12345
+2025-07-17 11:07:45,760 - INFO - 📍 IPs disponíveis para conexão:
+2025-07-17 11:07:45,761 - INFO -    1. 192.168.0.102:12345
+2025-07-17 11:07:45,761 - INFO - ✅ IP recomendado: 192.168.0.102:12345
+2025-07-17 11:07:45,761 - INFO - 💡 Configure firewall para permitir porta 12345
+2025-07-17 11:07:45,761 - INFO - 🔧 Use config_rede.py para diagnósticos de rede
+2025-07-17 11:07:45,762 - INFO - ⏳ Aguardando conexões...
+2025-07-17 11:07:53,480 - INFO - 🔗 Nova conexão de ('127.0.0.1', 64241)
+2025-07-17 11:07:53,481 - INFO - 👤 Jogador 1 ((0, 255, 0)) conectado
+2025-07-17 11:07:58,180 - INFO - 🔗 Nova conexão de ('127.0.0.1', 64242)
+2025-07-17 11:07:58,180 - INFO - 👤 Jogador 2 ((255, 255, 0)) conectado
+2025-07-17 11:07:58,293 - INFO - 📡 Fazendo broadcast da mensagem tipo: jogo_iniciado
+2025-07-17 11:07:58,294 - INFO -    - Jogadores conectados: 2
+2025-07-17 11:07:58,295 - INFO -    - Enviando para Jogador 1 ((0, 255, 0))
+2025-07-17 11:07:58,296 - INFO -    - Enviando para Jogador 2 ((255, 255, 0))
+2025-07-17 11:07:58,296 - INFO - 🎯 Novo jogo iniciado
+2025-07-17 11:09:48,048 - INFO - Movimento executado: Jogador 1 de (1, 5) para (2, 4)
+2025-07-17 11:09:48,048 - INFO - 🔄 Alternando turno: (0, 255, 0) -> (255, 255, 0)
+2025-07-17 11:09:48,048 - INFO -    - Jogador 1 ((0, 255, 0)) está AGUARDANDO_TURNO
+2025-07-17 11:09:48,049 - INFO -    - Jogador 2 ((255, 255, 0)) agora está JOGANDO
+2025-07-17 11:09:48,049 - INFO - 📤 Enviando mensagem de movimento executado
+2025-07-17 11:09:48,049 - INFO -    - Movimento: (1, 5) -> (2, 4)
+2025-07-17 11:09:48,050 - INFO -    - Jogador que jogou: (0, 255, 0)
+2025-07-17 11:09:48,050 - INFO -    - Próximo turno: (255, 255, 0)
+2025-07-17 11:09:48,050 - INFO -    - Número de jogadores conectados: 2
+2025-07-17 11:09:48,051 - INFO - 📡 Fazendo broadcast da mensagem tipo: movimento_executado
+2025-07-17 11:09:48,051 - INFO -    - Jogadores conectados: 2
+2025-07-17 11:09:48,051 - INFO -    - Enviando para Jogador 1 ((0, 255, 0))
+2025-07-17 11:09:48,052 - INFO -    - Enviando para Jogador 2 ((255, 255, 0))
+2025-07-17 11:09:48,052 - INFO - ✅ Turno atualizado enviado: agora é a vez de (255, 255, 0)
+2025-07-17 11:13:41,774 - INFO - 🎮 Servidor Damas Online iniciado em 0.0.0.0:12345
+2025-07-17 11:13:41,811 - INFO - 📍 IPs disponíveis para conexão:
+2025-07-17 11:13:41,811 - INFO -    1. 192.168.0.102:12345
+2025-07-17 11:13:41,812 - INFO - ✅ IP recomendado: 192.168.0.102:12345
+2025-07-17 11:13:41,812 - INFO - 💡 Configure firewall para permitir porta 12345
+2025-07-17 11:13:41,812 - INFO - 🔧 Use config_rede.py para diagnósticos de rede
+2025-07-17 11:13:41,812 - INFO - ⏳ Aguardando conexões...
+2025-07-17 11:14:17,312 - INFO - 🎮 Servidor Damas Online iniciado em 0.0.0.0:12345
+2025-07-17 11:14:17,324 - INFO - 📍 IPs disponíveis para conexão:
+2025-07-17 11:14:17,324 - INFO -    1. 192.168.0.102:12345
+2025-07-17 11:14:17,324 - INFO - ✅ IP recomendado: 192.168.0.102:12345
+2025-07-17 11:14:17,324 - INFO - 💡 Configure firewall para permitir porta 12345
+2025-07-17 11:14:17,325 - INFO - 🔧 Use config_rede.py para diagnósticos de rede
+2025-07-17 11:14:17,325 - INFO - ⏳ Aguardando conexões...
+2025-07-17 11:15:01,309 - INFO - 🎮 Servidor Damas Online iniciado em 0.0.0.0:12345
+2025-07-17 11:15:01,325 - INFO - 📍 IPs disponíveis para conexão:
+2025-07-17 11:15:01,326 - INFO -    1. 192.168.0.102:12345
+2025-07-17 11:15:01,326 - INFO - ✅ IP recomendado: 192.168.0.102:12345
+2025-07-17 11:15:01,326 - INFO - 💡 Configure firewall para permitir porta 12345
+2025-07-17 11:15:01,326 - INFO - 🔧 Use config_rede.py para diagnósticos de rede
+2025-07-17 11:15:01,327 - INFO - ⏳ Aguardando conexões...
+2025-07-17 11:15:23,226 - INFO - 🔗 Nova conexão de ('127.0.0.1', 64292)
+2025-07-17 11:15:23,228 - INFO - 👤 Jogador 1 ((0, 255, 0)) conectado
+2025-07-17 11:16:28,475 - INFO - 🔗 Nova conexão de ('127.0.0.1', 64298)
+2025-07-17 11:16:28,476 - INFO - 👤 Jogador 2 ((255, 255, 0)) conectado
+2025-07-17 11:16:28,601 - INFO - 📡 Fazendo broadcast da mensagem tipo: jogo_iniciado
+2025-07-17 11:16:28,602 - INFO -    - Jogadores conectados: 2
+2025-07-17 11:16:28,602 - INFO -    - Enviando para Jogador 1 ((0, 255, 0))
+2025-07-17 11:16:28,603 - INFO -    - Enviando para Jogador 2 ((255, 255, 0))
+2025-07-17 11:16:28,604 - INFO - 🎯 Novo jogo iniciado
+2025-07-17 11:16:54,786 - INFO - Movimento executado: Jogador 1 de (1, 5) para (2, 4)
+2025-07-17 11:16:54,787 - INFO - 🔄 Alternando turno: (0, 255, 0) -> (255, 255, 0)
+2025-07-17 11:16:54,787 - INFO -    - Jogador 1 ((0, 255, 0)) está AGUARDANDO_TURNO
+2025-07-17 11:16:54,787 - INFO -    - Jogador 2 ((255, 255, 0)) agora está JOGANDO
+2025-07-17 11:16:54,788 - INFO - 📤 Enviando mensagem de movimento executado
+2025-07-17 11:16:54,788 - INFO -    - Movimento: (1, 5) -> (2, 4)
+2025-07-17 11:16:54,788 - INFO -    - Jogador que jogou: (0, 255, 0)
+2025-07-17 11:16:54,788 - INFO -    - Próximo turno: (255, 255, 0)
+2025-07-17 11:16:54,789 - INFO -    - Número de jogadores conectados: 2
+2025-07-17 11:16:54,789 - INFO - 📡 Fazendo broadcast da mensagem tipo: movimento_executado
+2025-07-17 11:16:54,789 - INFO -    - Jogadores conectados: 2
+2025-07-17 11:16:54,790 - INFO -    - Enviando para Jogador 1 ((0, 255, 0))
+2025-07-17 11:16:54,790 - INFO -    - Enviando para Jogador 2 ((255, 255, 0))
+2025-07-17 11:16:54,791 - INFO - ✅ Turno atualizado enviado: agora é a vez de (255, 255, 0)
+2025-07-17 11:19:47,826 - INFO - 🎮 Servidor Damas Online iniciado em 0.0.0.0:12345
+2025-07-17 11:19:47,855 - INFO - 📍 IPs disponíveis para conexão:
+2025-07-17 11:19:47,856 - INFO -    1. 192.168.0.102:12345
+2025-07-17 11:19:47,856 - INFO - ✅ IP recomendado: 192.168.0.102:12345
+2025-07-17 11:19:47,856 - INFO - 💡 Configure firewall para permitir porta 12345
+2025-07-17 11:19:47,857 - INFO - 🔧 Use config_rede.py para diagnósticos de rede
+2025-07-17 11:19:47,857 - INFO - ⏳ Aguardando conexões...
+2025-07-17 11:19:58,268 - INFO - 🔗 Nova conexão de ('127.0.0.1', 64320)
+2025-07-17 11:19:58,270 - INFO - 👤 Jogador 1 ((0, 255, 0)) conectado
+2025-07-17 11:20:06,083 - INFO - 🎮 Servidor Damas Online iniciado em 0.0.0.0:12345
+2025-07-17 11:20:06,105 - INFO - 📍 IPs disponíveis para conexão:
+2025-07-17 11:20:06,106 - INFO -    1. 192.168.0.102:12345
+2025-07-17 11:20:06,106 - INFO - ✅ IP recomendado: 192.168.0.102:12345
+2025-07-17 11:20:06,106 - INFO - 💡 Configure firewall para permitir porta 12345
+2025-07-17 11:20:06,106 - INFO - 🔧 Use config_rede.py para diagnósticos de rede
+2025-07-17 11:20:06,107 - INFO - ⏳ Aguardando conexões...
+2025-07-17 11:20:15,130 - INFO - 🔗 Nova conexão de ('127.0.0.1', 64321)
+2025-07-17 11:20:15,131 - INFO - 👤 Jogador 2 ((255, 255, 0)) conectado
+2025-07-17 11:20:15,253 - INFO - 📡 Fazendo broadcast da mensagem tipo: jogo_iniciado
+2025-07-17 11:20:15,253 - INFO -    - Jogadores conectados: 2
+2025-07-17 11:20:15,253 - INFO -    - Enviando para Jogador 1 ((0, 255, 0))
+2025-07-17 11:20:15,255 - INFO -    - Enviando para Jogador 2 ((255, 255, 0))
+2025-07-17 11:20:15,256 - INFO - 🎯 Novo jogo iniciado
+2025-07-17 11:21:08,701 - INFO - Movimento executado: Jogador 1 de (1, 5) para (2, 4)
+2025-07-17 11:21:08,702 - INFO - 🔄 Alternando turno: (0, 255, 0) -> (255, 255, 0)
+2025-07-17 11:21:08,702 - INFO -    - Jogador 1 ((0, 255, 0)) está AGUARDANDO_TURNO
+2025-07-17 11:21:08,702 - INFO -    - Jogador 2 ((255, 255, 0)) agora está JOGANDO
+2025-07-17 11:21:08,702 - INFO - 📤 Enviando mensagem de movimento executado
+2025-07-17 11:21:08,702 - INFO -    - Movimento: (1, 5) -> (2, 4)
+2025-07-17 11:21:08,703 - INFO -    - Jogador que jogou: (0, 255, 0)
+2025-07-17 11:21:08,703 - INFO -    - Próximo turno: (255, 255, 0)
+2025-07-17 11:21:08,703 - INFO -    - Número de jogadores conectados: 2
+2025-07-17 11:21:08,703 - INFO - 📡 Fazendo broadcast da mensagem tipo: movimento_executado
+2025-07-17 11:21:08,704 - INFO -    - Jogadores conectados: 2
+2025-07-17 11:21:08,704 - INFO -    - Enviando para Jogador 1 ((0, 255, 0))
+2025-07-17 11:21:08,704 - INFO -    - Enviando para Jogador 2 ((255, 255, 0))
+2025-07-17 11:21:08,705 - INFO - ✅ Turno atualizado enviado: agora é a vez de (255, 255, 0)
+2025-07-17 11:21:15,950 - INFO - ❌ Jogador 1 desconectado
+2025-07-17 11:21:15,950 - INFO - 📡 Fazendo broadcast da mensagem tipo: notificacao
+2025-07-17 11:21:15,951 - INFO -    - Jogadores conectados: 1
+2025-07-17 11:21:15,951 - INFO -    - Enviando para Jogador 2 ((255, 255, 0))
+2025-07-17 11:21:15,951 - INFO - 📡 Fazendo broadcast da mensagem tipo: jogo_interrompido
+2025-07-17 11:21:15,952 - INFO -    - Jogadores conectados: 1
+2025-07-17 11:21:15,952 - INFO -    - Enviando para Jogador 2 ((255, 255, 0))
