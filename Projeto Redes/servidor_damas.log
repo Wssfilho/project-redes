@@ -474,3 +474,11 @@
 2025-07-17 11:21:15,951 - INFO - 📡 Fazendo broadcast da mensagem tipo: jogo_interrompido
 2025-07-17 11:21:15,952 - INFO -    - Jogadores conectados: 1
 2025-07-17 11:21:15,952 - INFO -    - Enviando para Jogador 2 ((255, 255, 0))
+2025-07-17 12:43:15,793 - INFO - 🎮 Servidor Damas Online iniciado em 0.0.0.0:12345
+2025-07-17 12:43:15,857 - INFO - 📍 IPs disponíveis para conexão:
+2025-07-17 12:43:15,857 - INFO -    1. 172.30.176.1:12345
+2025-07-17 12:43:15,867 - INFO -    2. 192.168.1.6:12345
+2025-07-17 12:43:15,873 - INFO - ✅ IP recomendado: 172.30.176.1:12345
+2025-07-17 12:43:15,873 - INFO - 💡 Configure firewall para permitir porta 12345
+2025-07-17 12:43:15,873 - INFO - 🔧 Use config_rede.py para diagnósticos de rede
+2025-07-17 12:43:15,873 - INFO - ⏳ Aguardando conexões...
