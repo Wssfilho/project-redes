@@ -1,0 +1,11 @@
+# Ambiente virtual
+venv/
+myenv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Configs locais (se estiver usando PyCharm ou VSCode)
+.idea/
+.vscode/
