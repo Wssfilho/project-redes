@@ -9,3 +9,6 @@ __pycache__/
 # Configs locais (se estiver usando PyCharm ou VSCode)
 .idea/
 .vscode/
+
+# Log do servidor
+servidor_damas.log

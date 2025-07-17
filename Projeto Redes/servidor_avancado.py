@@ -397,8 +397,8 @@ class ServidorDamasAvancado:
             if not peca.e_dama:
                 # VERDE se move para cima e vira dama no topo (x == 0)
                 # AMARELO se move para baixo e vira dama no fundo (x == TAMANHO_TABULEIRO - 1)
-                if (jogador.cor == VERDE and destino_x == 0) or \
-                   (jogador.cor == AMARELO and destino_x == TAMANHO_TABULEIRO - 1):
+                if (jogador.cor == VERDE and destino_y == 0) or \
+                   (jogador.cor == AMARELO and destino_y == TAMANHO_TABULEIRO - 1):
                     peca.promover_dama()
                     movimento.promoveu_dama = True
             
