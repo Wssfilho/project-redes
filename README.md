@@ -318,7 +318,7 @@ Se encontrar problemas:
 1. Execute primeiro: `python scr/verificar_sistema.py`
 2. Verifique se está na pasta correta do projeto
 3. Certifique-se de ter Python 3.7+ instalado
-
+4. Conecte com os desenvolvedores: Anderson Morbeck, Hingrid Querioz, Marco Túlio Macedo e Wilson Filho
 ---
 
 **🎮 Divirta-se jogando damas online!**
