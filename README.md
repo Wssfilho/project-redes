@@ -97,15 +97,23 @@ Quando executar o inicializador, você verá estas opções:
 5. ❌ Sair
 ```
 
-### Para Jogar no Mesmo Computador
+### Para Jogar no Mesmo Computador (mesmo computador sendo cliente e servidor)
 
 1. Escolha **opção 1**
 2. O servidor iniciará automaticamente
 3. O cliente abrirá em seguida
-4. Pressione **'C'** no cliente para conectar
+3.1. informe o IP fornecido pelo servidor;
+3.2. Digite o IP quando o cliente se abrir
+4. Pressione **'C'** no cliente (quando o jogo abrir) para conectar
+4.1. Quando o cliente se conectar, va em outra maquina e faça esse passo:
+nos computadores clientes:
+1. Execute: `python scr/iniciar_jogo.py`
+2. Escolha **opção 3** (Apenas Cliente)
+3. Digite o IP do servidor quando solicitado (IP maquina/ do servidor onde está rodando)
+4. Pressione **'C'** para conectar
 5. Comece a jogar!
 
-### Para Jogar em Rede
+### Para Jogar em Red, caso use um computador para servidor e outros dois para cliente
 
 **No computador que será o servidor:**
 1. Execute: `python scr/iniciar_jogo.py`
