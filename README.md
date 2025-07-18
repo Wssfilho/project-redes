@@ -2,6 +2,8 @@
 
 Um jogo de damas multiplayer desenvolvido em Python com interface gráfica usando Pygame, suportando jogos locais e em rede.
 
+#### DESENVOLVIDO POR Anderson Morbeck, Hingrid Querioz, Marco Túlio Macedo e Wilson Filho
+
 ## 📋 Índice
 - [Propósito do Software](#-propósito-do-software)
 - [Funcionamento do Software](#-funcionamento-do-software)
